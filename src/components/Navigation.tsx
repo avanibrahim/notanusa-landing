@@ -44,7 +44,7 @@ const Navigation = () => {
                 {item.name}
               </button>
             ))}
-            <Button onClick={() => window.location.href = 'http://localhost:5173'}> {/* link to dashboard admin */}
+            <Button onClick={() => window.location.href = 'https://notanusa-dashboard.vercel.app'}> {/* link to dashboard admin */}
               Daftar Sekarang
             </Button>
           </div>
