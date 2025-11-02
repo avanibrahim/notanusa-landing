@@ -34,7 +34,7 @@ const Hero = () => {
             <Button
               size="lg"
               className="group"
-              onClick={() => window.location.href = 'https://dashnotanusa.vercel.app/login'}
+              onClick={() => window.location.href = 'https://dashnotanusa.vercel.app/'}
             >
               Mulai Sekarang
               <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
