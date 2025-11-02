@@ -72,7 +72,7 @@ const Navigation = () => {
             ))}
             <Button
               className="w-full mt-4"
-              onClick={() => scrollToSection("#kontak")}
+              onClick={() => window.location.href = 'https://www.dashboardnontanusa.site'}
             >
               Mulai Sekarang
             </Button>
