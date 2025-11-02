@@ -43,19 +43,19 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "support@notanusa.id",
-      link: "mailto:support@notanusa.id",
+      value: "timnotanusa@gmail.com",
+      link: "mailto:timnotanusa@gmail.com",
     },
     {
       icon: Phone,
       title: "WhatsApp",
-      value: "+62 812-1111-0000",
-      link: "https://wa.me/6281234567890",
+      value: "+62 823-4279-9584",
+      link: "https://wa.me/62823799584",
     },
     {
       icon: MapPin,
       title: "Alamat",
-      value: "Gorontalo, Indonesia",
+      value: "Bone Bolango, Gorontalo.",
       link: null,
     },
   ];
