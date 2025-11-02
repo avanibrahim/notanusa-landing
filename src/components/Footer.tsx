@@ -126,7 +126,7 @@ const Footer = () => {
               © {currentYear} NotaNusa. All rights reserved.
             </p>
             <p className="text-background/70 text-sm">
-              Powered by (Nama) for UMKM
+              Powered by TimNotaNusa for UMKM
             </p>
           </div>
         </div>
